@@ -1,1 +1,1 @@
-# Zaxxon is a arcade game which is built with C.
+# Zaxxon is an arcade game which is built with C.
